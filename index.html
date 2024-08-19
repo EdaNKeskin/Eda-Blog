@@ -34,8 +34,16 @@
         <div class="content">
             <p>Got bored and learned html over the summer so instead of my college apps I decided to gather all my tips for yall out of the good of my heart</p>
         
-            <p><a href="about-eda.html">About me</a></p>
+            <button id="button">About me</button>
         </div>
     </main>
+
+    <script>
+        function openAboutEda() {
+            window.location.href = 'about-eda.html';
+        }
+        const aboutEda = document.getElementById('button');
+        aboutEda.addEventListener('click', openAboutEda)
+    </script>
 </body>
 </html>

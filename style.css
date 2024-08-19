@@ -116,9 +116,9 @@ nav {
     font-size: 60px;
     margin: auto;
     color: RGB(249, 248, 246);
-    font-weight: lighter;
     text-decoration: none;
     line-height: 100px;
+
 
 }
 
@@ -135,6 +135,7 @@ nav {
 
 .select-tabs span a {
     color: #0f2a17;
+    font-family: karla;
 
 }
 
@@ -150,5 +151,22 @@ nav {
 /* /Nav Bar and Title */
 
 
+button {
+    padding: 15px 30px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background: linear-gradient(135deg, #2e8047, #3dbb63);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: auto;
+    text-align: center;
+    display: block;
+    
+}
 
+button:hover {
+    transform: translateY(-2px);
+}
 
