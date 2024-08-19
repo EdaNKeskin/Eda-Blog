@@ -1,0 +1,26 @@
+/* Base color definitions */
+:root {
+    --green-darkest: #0f2a17;
+    --green-darker: #1f552f;
+    --green-dark: #2e8047;
+    --green: #3daa5e;
+    --green-light: #4dd475;
+    --pink: #ff5cce;
+}
+
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    color: var(--green-darkest);
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+
