@@ -1,0 +1,155 @@
+/* Base color definitions */
+:root {
+    --green-darkest: #0f2a17;
+    --green-darker: #1f552f;
+    --green-dark: #2e8047;
+    --green: #3daa5e;
+    --green-light: #4dd475;
+    --pink: #ff5cce;
+
+    --light-beige: #f5f5f5;
+    --ivory: #fffff0;
+    --soft-coral: #ff6f61;
+    --burnt-orange: #f57f17;
+    --teal: #008080;
+    --slate-blue: #6a5acd;
+    --sand: #d2b48c;
+    --taupe: #8b8c7a;
+    --sunset-orange: #ff4500;
+    --sky-blue: #87ceeb;
+}
+
+
+/* body */
+
+body {
+    margin: 0px;
+    padding: 0;
+}
+
+main {
+
+    margin: auto;
+    margin-top: 60px;
+    text-align: left;
+}
+
+.content {
+    width: 800px;
+}
+
+
+
+div {
+    display: block;
+    margin: auto;
+   
+}
+
+
+
+
+
+
+
+/* body */
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    font-family: Montserrat ;
+    color: #2B9575;
+    
+}
+
+h3 {
+    font-family: Open sans ;
+    color: #1f552f;
+    text-align: center;
+    font-size: 32px;
+
+}
+
+p, li {
+    font-family:  Open Sans;
+    align-items: center;
+    font-size: 16px;
+    padding: 3px;
+    
+}
+
+
+a {
+    color: #a75916;
+    text-decoration: underline;
+    font-family: open sans;
+    
+}
+
+a:hover {
+    color: #f05d50;
+}
+
+
+
+/* body */
+
+
+
+
+/* Nav Bar and Title */
+
+nav {
+    width: 100%;
+    background-color: #3daa5e;
+    text-align: center;
+
+}
+
+
+
+
+#title {
+    width: 100%;
+    font-family: Karla ;
+    font-size: 60px;
+    margin: auto;
+    color: RGB(249, 248, 246);
+    font-weight: lighter;
+    text-decoration: none;
+    line-height: 100px;
+
+}
+
+
+.select-tabs  {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    line-height: 40px;
+    font-weight: bold;
+    
+    
+}
+
+.select-tabs span a {
+    color: #0f2a17;
+
+}
+
+.select-tabs :hover {
+    color: #163d22;
+}
+
+.select-tabs-container{
+    background-color: #69ff96;
+}
+
+
+/* /Nav Bar and Title */
+
+
+
+
