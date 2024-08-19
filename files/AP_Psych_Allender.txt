@@ -1,0 +1,520 @@
+#separator:tab
+#html:true
+#tags column:3
+Intuition	Effortless, immediate feeling/thought.	u_1
+Confirmation Bias	Other people agreeing with an idea strengthen it in your mind, even if it's wrong.	u_1
+Hindsight Bias	"The tendency to think you could have forseen an outcome before it happened (""Hindsight is 20/20."")"	u_1
+Hypothesis	A testable prediction.	u_1
+Replication	The ability to recreate the results of a study.	u_1
+Generalizability	The ability to apply the results of a study to a larger group of people.	u_1
+Operational Definition	Explicit definition of the research variables/procedures.	u_1
+Variables	Features of the study that can change.	u_1
+Experiment	Has 2 types of variables, all aspects other than those must be carefully planned for.	u_1
+Independent Variable	The variable in an experiment that the experimenter manipulates.	u_1
+Dependent Variable	The variable in an experiment that is measured.	u_1
+Correlational Research	Researching the relationship between two things you cannot control.	u_1
+Descriptive Research	Type of research that describes phenomena, cannot show cause and effect because it does not control all variables.	u_1
+Types of Descriptive Research	Case Study, Survey, Naturalistic Observation, Correlational Research.	u_1
+Experimental Research	Type of research done to show cause and effect, where experimenters manipulate and control variables.	u_1
+Population	All of the people your study could possibly apply to.	u_1
+Sample	A group you are conducting the study on.	u_1
+Representative Sample	A sample that accurately represents the population.	u_1
+Sample Bias	Bias that comes from not using good sampling techniques, such as nonrandom selection.	u_1
+Naturalistic Observation	Observing behavior in natural situations without interfering.	u_1
+Hawthorne Effect	The presence of a researcher can affect behavior of participants.	u_1
+Case Study	Study of a single case/person in depth.	u_1
+Survey	Method of obtaining self-reported info.	u_1
+Wording Effect	The wording of questions may sway answers.	u_1
+Social Desirability Effect	People may answer questions based on what they think is socially acceptable.	u_1
+Correlation	Shows that two variables have a positive or negative relationship. (not cause/effect)	u_1
+Quasi-Experiment	Experiment but the participants aren't randomly assigned.	u_1
+Correlation Coefficient	A correlation coefficient is a value that shows how strong a correlation is between two variables and what direction that correlation is. +1.0 is strongest positive, -1.0 is strongest negative, 0 is no correlation.	u_1
+Confounding Variables	Variables linked in a way that makes it difficult to sort out effects.	u_1
+Experimenter Bias	Researcher's expectations influence results.	u_1
+Ethical Requirements	<ul><li>Voluntary w/ informed consent</li><li>For 18+ or parental consent</li><li>Protect from mental/physical harm/discomfort</li><li>Participant's identity never revealed</li><li>Deception allowed if necessary</li><li>Approved by ethics board</li><li>Participants need to be debriefed</li></ul>	u_1
+Animal Ethics	<div>Infection, illness, and pain must be minimized.</div>	u_1
+Psychology	Science of behavior and mental processes	u_1
+Conscious Mind	Our awareness of ourselves and our environment.	u_1
+Unconscious Mind	Information processing of which we are unaware.	u_1
+Cognition	All the mental processes associated with thinking, knowing, remembering, and communicating.	u_1
+Nature vs Nuture	Is behavior because of genes or environment?	u_1
+Neuroscience	Study of the brain and its biological processes (biological perspective.)	u_1
+Egyptians in Psychology	Created first medical text which attempted to explain the brain and brain traumas	u_1
+Plato	"Coined ""psyche,"" believed in the nature perspective"	u_1
+Aristotle	"Plato's student, wrote ""Para Psych."" Believed in nurture perspective."	u_1
+Hippocrates	Father of modern medicine, believed that changes in behavior stem from physical changes and the psyche was in the brain, not the heart.	u_1
+Galen	"Believed that each person has 4 ""humors,"" imbalances cause behavior changes, and dominant humor determines personality."	u_1
+Rene Descartes	"Coined ""I think, therefore I am"" (Nature perspective) Thought brain fluid flowed through the nerves."	u_1
+John Locke	"Nurture perspective, coined ""tabula rasa"" (blank slate.)"	u_1
+Wilhelm Wundt	Founder of psychology, opened first psych lab in 1879 (in Germany.)	u_1
+Structuralist Perspective	Sought to identify the basic components of the mind, used introspection (not scientific!)	u_1
+Introspection	Pseudoscientific method of training people to look inward and report their experiences as they did tasks.	u_1
+Edward Titchener	Created Structuralism, Wundt's student.	u_1
+Functionalist Perspective	Focused on the function of behavior. Used stream of consciousness, no longer used today.	u_1
+Stream of Consciousness	Participants placed in situations and asked to explain their thought processes.	u_1
+William James	Created Functionalism to challenge structuralism.	u_1
+G. Stanley Hall	Studied under James and Wundt, educational psychologist, first president of the APA.	u_1
+Mary Whitton Calkins	Studied under William James, first female president of the APA.	u_1
+Behavioral Perspective	Focus on outward behavior we can see and test, specifically how we are conditioned to certain behaviors.	u_1
+Conditioning	Learning	u_1
+Ivan Pavlov	Studied classical conditioning.	u_1
+John B. Watson	"Continued Pavlov's work, conditioned baby to fear white furry objects. Coined the term ""behaviorism."""	u_1
+BF Skinner	Studied operant conditioning.	u_1
+Albert Bandura	Behaviorist/cognitive psychologist.	u_1
+Psychoanalytic/Psychodynamic Perspective	Focuses on how our unconscious thoughts and conflicts influence behavior that leads to disorders, very subjective.	u_1
+Humanistic Perspective	"Believe in working to reach your full potential through ""self-actualization."""	u_1
+Biological Perspective (Neuroscience)	Looks for changes in the brain, including neurotransmitters and hormones, to explain behavior. They also study genetic coding to explain certain phenomena.	u_1
+Evolutionary Perspective	Focus on how humans were naturally selected for certain traits to increase fitness.	u_1
+Cognitive Perspective	Studies mental processes, like how we think, learn, remember, and communicate.	u_1
+Socio-Cultural Perspective	Studies how societal norms influence behavior, such as individualist vs collectivist societies.	u_1
+Basic Psychology	"Focuses on defining and explaining theories, the main ""scientific"" part of psychology."	u_1
+Applied Psychology	Attempts to apply theories from basic psychology to everyday situations.	u_1
+Biological Psychology (Neuroscience)	Studies how the brain, neurotransmitters, hormones, and changes in brain structure affect behaviors.	u_1
+Developmental Psychology	Studies how we change physically, socially, and cognitively from birth to death.	u_1
+Cognitive Psychology	Studies mental processes such as thinking, learning, remembering, and communication.	u_1
+Personality Psychology	Studies an individual's pattern of behavior, called traits using personality indexes/tests.	u_1
+Educational Psychology	Focuses on what impacts student learning.	u_1
+Clinical Psychology	Studies, diagnoses, and treats psychological disorders.	u_1
+Psychiatrist	Medical doctor that can perscribe medication.	u_1
+Psychologist	Has a PhD and can provide therapy, but NOT PERSCRIBE MEDICATION.	u_1
+Counseling Psychology	Counsels people on everyday life issues.	u_1
+School Psychology	Identify and help with learning, cognitive, and behavioral problems that impact learning.	u_1
+Sports Psychology	Focuses on motivating athletes.	u_1
+Industrial-Organization Psychology	Applies psychological concepts to optimize human behavior at work.	u_1
+Human Factors Psychology	Studies the interaction of product design and humans.	u_1
+Psychometric Psychology	Measures/quantifies human abilites, attitudes, and traits.	u_1
+Weaknesses of a Case Study	<div>Case studies are highly subjective, subject to confirmation bias, and cannot show causation.</div>	u_1
+Strength of a Case Study	Case studies are a realistic illustration of real life.	u_1
+Strengths of a Naturalistic Observation	<div>Naturalistic Observations are more realistic and allow researchers to study unethical situations.</div>	u_1
+Weaknesses of a Naturalistic Observation	<div>They are subject to the Hawthorne Effect and are more qualitative than quantitative.</div>	u_1
+Random Selection	Randomly selecting participants from a population.	u_1
+Random Assignment	Randomly assigning participants to treatment/control group.	u_1
+Weaknesses of a Survey	<div>They are self-reported, which means they are succeptible to the social desirability effect, the wording effect, and some might be unwilling to participate.</div>	u_1
+Strenghts of a Survey	They are easy to collect/cheap, can reach large groups, and can see difficult to observe behaviors.	u_1
+Social Cognition	Gathering, using, and interpreting information about the social world around us.	u_2
+Situtational Attributes	Crediting a person's behavior to the situation they are in.	u_2
+Dispositional Attributes	Crediting a person's behavior to their personal behavior.	u_2
+Actor/Observer Bias	Seeing our own behavior as situational, and others' as dispositional.	u_2
+Fundamental Attribution Error	Attributing someone's behavior to dispositional factors and failing to recognize the situation.	u_2
+Self-Serving Bias	Attributing personal achievements to disposition, and failures to situation.	u_2
+Prejudice	An unjustified attitude that we hold against others.	u_2
+Discrimination	An unjustified action against others because of prejudice.	u_2
+Elaboration Likelihood Model (ELM) Routes	Central Route and Peripheral Route	u_2
+Central Route to Persuasion	When speaker uses facts/information to enable the listener to carefully process and change their opionion.	u_2
+Pros and Cons of the Central Route to Persuasion	It's more likely to stick, but takes longer.	u_2
+Peripheral Route to Persuasion	Quick judgments made on appearance/endorsements of respected people.	u_2
+Pros and Cons of the Peripheral Route to Persuasion	It's fast and easy, but doesn't last long.	u_2
+Mere Exposure Effect	The longer we are exposed to ideas, the more likely we are to accept them.	u_2
+Foot in the Door Phenomena	Tendency of people to agree to a larger request if they accepted a smaller one.	u_2
+Lowballing	"Being offered a ""deal,"" but then hit with hidden fees."	u_2
+Door in the Face Phenomena	An outrageous request gets people to accept a smaller request.	u_2
+Reciprocity	The tendency to return the favor of someone giving you a gift/donation.	u_2
+Phillip Zimbardo	A scientist at Stanford University	u_2
+Stanford Prison Experiment (1971)	An unethical Quasi-Experiment where young men roleplayed as guards and prisoners in a mock prison.	u_2
+Zimbardo's Hypothesis	Assigning a role to play can influence your attitude.	u_2
+Flaws in the Stanford Prison Experiment	"There was experimenter bias, coersion was used in order to keep ""prisoners"" from escaping, harm and discomfort were involved, there was no random selection (Quasi-Experiment,) and the guards experienced <b>cognitive dissonance&nbsp;</b>and changed their attitudes."	u_2
+Cognitive Dissonance	An uncomfortable feeling where our attitudes don't align with our actions.	u_2
+Cognitive Dissonance Theory	We change our attitudes to match our behaviors, because it reduces cognitive dissonance.	u_2
+Conformity	Changing your behavior to match a group.	u_2
+Chameleon Effect	Fitting in is preferable to sticking out.	u_2
+Mood Linkage	Our moods change to match those of the people around us.	u_2
+Solomon Asch	"Creator of the ""line"" study."	u_2
+The Line Study	Participants were placed either in a group of actors or by themselves and asked to choose which of 3 lines matched another line.	u_2
+Results of the Line Study	Participants in groups usually answered with the group.	u_2
+Conditions that Strengthen Conformity	<ul><li>Insecurity</li><li>Groups of at least 3 people</li><li>Unanimous group</li><li>Respectable group members</li><li>No prior commitments</li><li>Non-anonymity</li><li>Culture encourages respect for social standards</li></ul>	u_2
+Normative Social Influences	We want to gain approval or avoid dissaproval of society.	u_2
+Informational Social Influence	We watch others if we are unsure on how to act.	u_2
+Compliance	Adapting your actions to someone else's request.	u_2
+Stanley Milgram Shock Experiment (1962)	"Participants (""teachers"") told to shock actors (""learners"") if they got questions wrong, 66% gave lethal dose when told to."	u_2
+Ethical Concerns of the Stanley Milgram Shock Experiment	It could potentially give trauma and involved coersion.	u_2
+Design Flaws of the Stanley Milgram Shock Experiment	The experiment only used men and requested working-class people who were used to recieving orders.	u_2
+Milgram's Hypothesis	Only 2% would give lethal shock.	u_2
+Coditions that Lead to Obedience	<ul><li>Close proximity to speaker</li><li>Respected authority figure is speaker</li><li>Victim of request is depersonalized</li><li>No role models for defiance are given</li></ul>	u_2
+Social Facilitation	If we are confident in tasks, we perform better in front of others.	u_2
+Social Impairment	If we aren't confident in the task, we do worse in front of others.	u_2
+Deindividuation	"We lose individuality and do weird things while in groups. (ex. ""the wave,"" mosh pits)"	u_2
+Social Loafing	Tendency to slack off in a group.	u_2
+Group Polarization	Tendency for beliefs to grow stronger while in a group of people with similar beliefs.	u_2
+Groupthink	While excited to reach a decision, groups overlook problems to achieve group harmony.	u_2
+NASA Challenger Groupthink	Scientists contracted by NASA were under pressure to make O-Rings for the space shuttle, and purposefully overlooked some details under time crunch.	u_2
+Minority Influence	One person can sway a group to their beliefs.	u_2
+Stereotype	A generalized belief about a group that leads to prejudice.	u_2
+Overt Prejudice	Obvious prejudice, racial attitudes.	u_2
+Subtle Prejudice	Implicit prejudice ingrained in society.	u_2
+Altruism	An unselfish regard for the wellbeing of others.	u_2
+When does Altruism work?	With norms (reciprocity/social responsibility) and the social exchange theory.	u_2
+Norms	Implied or stated social rules.	u_2
+Social Exchange Theory	We weigh the benefits and costs of all relationships.	u_2
+Reciprocity Norm	The expectation that people that we help won't harm (or might help) us.	u_2
+Social Responsibility Norm	We are expected to help those in need (injured, elderly, children, etc.)	u_2
+Conflict	A percieved imcompatibility of actions/goals/ideas caused by Social Traps, Mirror Image Perceptions, and Self-Fulfilling Prophecies.	u_2
+Social Traps	When parties in a conflict pursue their own interests they become caught in destructive behavior.	u_2
+Mirror Image Perceptions	Your side is good, the other side is bad. This effect is seen by both parties.	u_2
+Contact Theory	When groups contact, tension lowers.	u_2
+Jigsaw Classroom	Students of different backgrounds cooperate on something to reduce conflict. This was used in integrating black and white kids into schools.	u_2
+Cooperation	Multiple people work together on a superordinate goal.	u_2
+Superordinate Goal	A shared goal that is more important than the differences in the people working on it.	u_2
+Conciliation	Each side in a conflict realizes a mutual interest and intent to reduce problems.	u_2
+Ingroup Bias	We're biased towards the groups we belong to and favor.	u_2
+Outgroup Bias	We're biased against the groups we don't belong to and dislike.	u_2
+Ethnocentrism	The belief that our culture or group is superior.	u_2
+Outgroup Homogeneity	Belief that all members of another group are more alike than is true.	u_2
+Scapegoat Theory	Looking for someone to blame for society's problems.	u_2
+Just World Phenomena	The world is good, so people that do bad things end up getting what they deserve (karma.)	u_2
+Blame the Victim Dynamic	The victim got what was coming to them. ex. blaming rape victim for drinking	u_2
+Other Race Effect	We can recall the faces of our own race easier than that of other races.	u_2
+Aggression	Any physical/verbal behavior intended to hurt or destroy whether done reactively out of hostility or proactively as a calculated means to an end.	u_2
+Instrumental Aggression	Aggression to satisfy a goal.	u_2
+Hostile Aggression	When you feel pain/anger/frustration.	u_2
+Genetic Influences on Aggression	Presence of the Y Chromosome and the MAOA gene.	u_2
+Neural Influences on Aggression	The amygdala causes emotions/drive. Damage to the frontal lobe inhibits aggression. The hypothalamus controls hormones.	u_2
+Biochemical Influences on Aggression	High levels of testosterone cause aggression, alcohol/drugs weaken inhibitions.	u_2
+Social Influences on Aggression	Frustration-Aggression Principle, Ostracism, and Learned Behavior.	u_2
+Frustration-Aggression Principle	Frustration causes anger, which causes aggression.	u_2
+Ostracism	Aggression because of rejection.	u_2
+Bobo Doll Experiment	Performed by Albert Bandura, it studied how children learn aggression.	u_2
+Observational Learning Theory	We observe others be aggressive, we imitate that behavior.	u_2
+Aggression and Fathers	Correlation between children without fathers present and raised aggression.	u_2
+Desensitization	Violent media desensitizes people.	u_2
+Social Scripts	Instructions on how to act which we can pick up from anyone.	u_2
+Aggression as Catharsis	DISPROVEN, <i>aggression releases frustration.</i>	u_2
+Reuptake	Any NTs left in the synaptic cleft are reabsorbed into the presynaptic neuron.	u_3
+Resting Potential	In a neuron, when the inside of the cell body is negatively charged and the outside is potitively charged.<br>How to remember: NAKED. (NA on the outside, K on the inside)	u_3
+Franz Gall	Creator of phrenology (very unscientific.)	u_3
+Depolarization	(Part of action potential) When membrane threshold is flooded with positive potassium ions, depolarizing the cell (bringing it to the same charge as outside.)	u_3
+Action Potential	When an excitatory neural message comes in and causes depolarization.	u_3
+Sensory Neurons	(Afferent) Receive neural messages from receptor sites and send them to the brain.	u_3
+Motor Neurons	(Efferent) Send messages from the brain to the muscles.	u_3
+Refactory Period	(rest period) The cell has to rest before it can fire again.	u_3
+Excitatory	An NT that is a sodium channel which causes depolarization.	u_3
+Interneurons	Located in the spinal chord + brain, relay messages.	u_3
+Inhibitory	Chloride channel NTs that cause hyperpolarization.	u_3
+Dendrites	Receive NTs from the synaptic cleft.	u_3
+Threshold	The electrical value that determines whether the neuron fires.	u_3
+Agonist	Bind to receptors and act like NTs. Enhances neural activity, blocks reuptake.	u_3
+Antagonist	Blocks NTs from being released, blocking cellular activity.	u_3
+Axon	The conducting fiber between the cell body and the axon terminals.	u_3
+Synapse	space between dendrites and axon terminals.	u_3
+Myelin Sheath	Made of glial cells, provides food for the neuron. More myelin == faster message.	u_3
+Reflex Arc	How simple reflexes are processed in the spinal chord (no brain.)	u_3
+Cell Body	(Soma) Recieves the neural message after the dendrites.	u_3
+Reflex	Requires no thinking, automatic. Survival mechanism.	u_3
+Sympathetic Nervous System	Arouses and expends energy to help in stressful situations. Pupil dilation, heartbeat++, digestion--, blood sugar++, bladder contracts, sweat.	u_3
+Ovaries	Female sex organs, produce estrogen.	u_3
+Testes	Male sex organs, produce testosterone.	u_3
+Peripheral Nervous System	Sensory and motor neurons that connect to the central nervous system from the rest of the body.	u_3
+Central Nervous System	Brain and spinal chord.	u_3
+Parasympathetic Nervous System	"The ""paramedics"" of the body, calms and conserves energy. Reverses sympathetic NS and brings you back to homeostasis."	u_3
+Pituitary Gland	Controls endocrine system and hormone secretion.	u_3
+Endocrine System	Hormones.	u_3
+Somatic Nervous System	Skeletal nervous system which enables voluntary muscle control.	u_3
+Autonomic Nervous System	Controls glands and muscles (contains parasymphathetic and sympathetic.)	u_3
+Adrenal Gland	Releases stress hormones (cortisol, adrenaline.)	u_3
+Pancreas	Produces insulin (regulates blood sugar metabolism.)	u_3
+Thyroid Gland	Produces thryoxine, which stimulates/maintains metabolism.	u_3
+Pineal Gland	Produces melatonin which regulates the circadian rhythm.	u_3
+Brain Stem	Oldest part of the brain, responsible for basic life functions, relays sensory info to cerebrum.	u_3
+Pons	Coordinates voluntary movement and regulates consciousness.	u_3
+Medulla Oblongata	Regulates heartbeat/breathing.	u_3
+Reticular Formation	Network of neurons that connects the spinal chord to thalamus. Responsible for habituation and regulates sleep/alertness.	u_3
+Thalamus	THE THALAMUS IS THE RELAY CENTER FOR ALL SENSORY INFORMATION, EXCEPT SMELL!!	u_3
+Hypothalamus	Regulates hunger, thirst, body temp, sexual behavior. In charge of the endocrine system.	u_3
+Amygdala	Helps process emotions, influences aggression and fear.	u_3
+Hippocampus	Part of the temporal lobe, responsible for encoding short-term memories into long-term ones.	u_3
+Cerebellum	"The ""little brain"" that coordinates voluntary muscle movement and stores procedural memories."	u_3
+Cerebral Cortex	The outer layer of gray matter responsible for higher brain functions (sensation, thought, muscle movement, etc.)	u_3
+Basal Ganglia	Connects the thalamus to the cerebellum to regulate movement, balance, eye movement, and posture.	u_3
+Olfactory Bulb	Relays smell to olfactory cortex.	u_3
+Frontal Lobe	Enables judgement, planning.	u_3
+Phineas Gage	Metal rod shot through frontal lobe, survived.	u_3
+Motor Cortex	Sends messages to muscles and glands to move.	u_3
+Broca's Area	(language is on the left) In Frontal Lobe, responsible for speech articulation. If it is damaged, speech is slurred.	u_3
+Parietal Lobe	Associated with math and spacial reasoning.	u_3
+Somatosensory Cortex	Responsible for recieving touch/pain/temperature info (somatosensation.)	u_3
+Angular Gyrus	Responsible for reading. Partially in parietal and temporal lobes.	u_3
+Supramarginal Gyrus	Understanding what we read.	u_3
+Occipital Lobe	Contains visual cortex where vision is processed.	u_3
+Temporal Lobe	Where hearing is processed, contains auditory cortex, hippocampus, and amygdala.	u_3
+Wernicke's Area	Speech comprehension, forming comprehensive sentences.	u_3
+Fusiform Gyrus	Allows for facial recognition.	u_3
+Corpus Callosum	Bundle of nerves that connects the 2 hemispheres of the brain.	u_3
+Cerebral Laterialization	Each half of the brain controls the opposite half of the body.	u_3
+Left Brain Associations	Academic: Language, math, science, logic.	u_3
+Right Brain Associations	Creative: spacial reasoning, art, music, imagination.	u_3
+Sperry and Gazzaniga	Completed split-brain surgery (lesioned corpus callosum.)&nbsp;	u_3
+Dual Processing	Information processed on seperate conscious and unconscious tracks.	u_3
+Selective Attention	Focusing conscious on a particular stimulus.	u_3
+Selective Inattention	Blind to most of visual stimuli.	u_3
+Inattentional Blindness	Failing to see visible things because we aren't paying attention.	u_3
+Change Blind/Deafness	Failing to notice change in environment.	u_3
+Serial Processing	Processing one piece of information at a time.	u_3
+Parallel Processing	Processing many pieces of info at once.	u_3
+Circadian Rhythm	Our biological clock.	u_3
+Sleep Inertia	Groggy sennsation when you're sleep deprived.	u_3
+Suprachiasmatic Nucleus	Region above the optic chiasm that controls the circadian rhythm, causes pineal gland to secrete melotonin.	u_3
+Sleep Cycle	90 mins. 1, 2, 3, 4, 3, 2, REM, 2, 3, 4, 3, 2, REM, 2, 3, 2, REM, 2, REM, ...	u_3
+Beta Waves	Awake and Alert	u_3
+Alpha Waves	Awake but drowsy, relaxed.	u_3
+Theta Waves	Stage 1.	u_3
+Hypnagogic Hallucinations	Feeling of falling, causes a myoclonic jerk when you wake up.	u_3
+Sleep Spindles	Stage 2, indicates you're leaving/entering REM. Body temp/breathing slow down.	u_3
+Delta Waves	"Stages 3/4, ""slow wave"" sleep."	u_3
+Night Terrors, Bed Wetting, Sleep Walking	At the end of stage 4, mostly between children between 4 and 12.	u_3
+NREM	Stages 1-4	u_3
+REM	"Rapid Eye Movement sleep or ""paradoxical sleep"" because you're paralyzed. Mind is very active, most vivid dreams."	u_3
+Michel Jouvet	"Coined the term ""paradoxical sleep"" when studying cats."	u_3
+William Dement	First to figure out that dreams happen in REM.	u_3
+Insomnia	Recurring problem in falling/staying asleep. Treated with anti-anxiety meds + therapy.	u_3
+Narcolepsy	Randomly go straight into REM. Treated with stimulants.	u_3
+Saturday Night Paralysis (Palsy)	Intoxicated person passes out and causes nerve damage.	u_3
+REM Behavior Disorder	Not paralyzed in REM. Treated with benzos.	u_3
+Bruxism	Teeth grinding, most common in women. Treated with a nightguard.	u_3
+Why we sleep	It protects us, restores brain tissue, makes memories, fuels creativity, and helps us grow.	u_3
+Psychoanalytic Theory (Dreams)	Dreams reveal a lot about memories that we've repressed.	u_3
+Manifest Content	Events from daily lives in dreams (most of the dream.)	u_3
+Latent Content	Hidden messages in dreams.	u_3
+Other Reasons why we Dream	They (REM) help process information, preserve neural pathways, make sense of neural static, and help w/ cognitive development.	u_3
+Activiation-Synthesis Theory	Dreams are just trying to make sense of stimuli.	u_3
+Social Influence Theory of Hypnosis	Hypnotic subjects are role-playing and get caught up in the role.	u_3
+Dissociation Theory	Conscious is split between levels and allows some thoughts and behaviors to occur simultaneously.	u_3
+Alcohol	Depressant, inhibits nervous system/REM/memory/cell regrowth. Increases GABA in short term, alcoholics kill off GABA and increase Glutamate.	u_3
+Barbituates	Tranquilizers, mostly replaced by benzos.	u_3
+Opiates	Pretend to be endorphins, slow down nervous system.	u_3
+Methadone	Synthetic opium used as a painkiller and treatment for opiate addiction.	u_3
+Caffeine	Stimulant, binds to adenosine receptors.	u_3
+Nicotine	Releases epinephrine, norepinephrine, dopamine, speeds up nervous system.	u_3
+Meth	Increases dopamine production (over time, stops it.)	u_3
+Cocaine	Rush of dopamine, serotonin, rorepinephrine, depletes supply (causes a crash.)	u_3
+Ecstasy (MDMA)	Stimulant + mild hallucinogen, releases serotonin + dopamine and blocks their reuptake.	u_3
+LSD	Hallucinogen, releases and blocks the reuptake of serotonin. Agonist.	u_3
+PCP	Releases + blocks reuptake of serotonin, norepinephrine, and dopamine.	u_3
+Marijuana	Fat soluable, Hallucinogen, binds to cannibinoid receptors all around body. Helps with nausea but impacts memory.	u_3
+Sensation	The process where sensory receptors and the nervous system percieve stimuli.	u_4
+Perception	The process of organizing and interpreting sensory information, enabling us to recognize meaningful objects and events	u_4
+Top Down Processing	Perception first, followed by sensation.	u_4
+Bottom Up Processing	Starts with sensory, eventually perception.	u_4
+Psychophysics	The study of the relationship between stimuli and the sensations/perceptinos elicited by the stimuli.	u_4
+Absolute Threshold Theory	Minimum stimulatino needed to detect a particular stimulus 50% of the time.	u_4
+Signal Detection Theory	Assumes no absolute threshold, detection depends on experience/expectations/motivation/level of fatigue.	u_4
+Sensation	The process by which our sensory receptors and nervous system recieve stimuli.	u_4
+Perception	The process of organizing and interpreting sensory information.	u_4
+Top-Down Processing	First preception, then sensation.	u_4
+Bottom-Up Processing	First sensation, then perception.	u_4
+Psychophysics	The scientific study of the relationship between stimuli and sensations/perceptions evoked by said stimuli.	u_4
+Absolute Threshold	Minimum stimulation to detect a particular stimulus 50% of the time.	u_4
+Signal Detection Theory	No absolute threshold, detection depends on a person's experience, expectations, motivation, and level of fatigue.	u_4
+Subliminal Messages	Messages underneath the threshold.	u_4
+Difference Threshold/Just Noticable Difference (JND)	Minimum difference between 2 stimuli for detection 50% of the time.	u_4
+Weber's Law	In order to be perceived as different, two stimuli must differ by a constant minimum percent.	u_4
+Sensory/Neural Adaptation	Diminished sensitivity as a consequence of constant stimulation.	u_4
+Habituation	You habituate to some sensations, not neural adaptation but reticular formation filtering out information.	u_4
+Gestalt Psychology	Psychological perspective: our brains like to organize stimuli by...<br>Proximity, Similar color, Similar size, Common fate, Good Continuation, Closure, Element connectedness	u_4
+Figure-Ground Relationship	We try to perceive objects as distinct from background based on brightness, light, shading, etc.	u_4
+Bionocular Cues	2 eyes - Retinal Disparity, Convergence	u_4
+Retinal Disparity	The greater the difference between views in each eye, the greater the distance.	u_4
+Convergence	The angle that eyes converge on a point determines how far away it is.	u_4
+Monocular Cues	Relative size, Linear Perspective, Interposition, Relative Clarity, Texture Gradient, Relative Height, Relative Motion, Light and Shadow	u_4
+Relative Size	Distant objects are smaller.	u_4
+Linear Perspective	Parallel lines converge in the distance.	u_4
+Interposition	Objects blocked from view percieved as farther.	u_4
+Relative Clarity	Hazier objects are more distant	u_4
+Texture Gradient	Farther objects seem smaller and densely packed.	u_4
+Relative Height	Vertical dimensions seem longer than horizontal dimensions (ex. tables, st louis arch)	u_4
+Relative Motion	Stable object appear to move with us.	u_4
+Light and Shadow	Dimmer objects appear farther because nearby objects reflect more light into our eyes.	u_4
+Stroboscopic Movement	A rapid series of slightly varying images give the illusion of motion (video)	u_4
+Phi Phenomenon	Afterimage illusion when two or more lights blink on and off (pink circles)	u_4
+Shape Constancy	We percieve familiar objects as the same, even when looking at it from a different angle.	u_4
+Size Constancy	Percieving objects as having a constant size even though our distance varies (cars on the road)	u_4
+Color Constancy	We percieve objects as having constant color, even when the illumination changes.	u_4
+Perceptual Adaptation	Adjusting to a artificially altered/lost sense (blind people)	u_4
+Perceptual Set	Being disposed to perceive one thing over another.	u_4
+Context Effect	The context (what is around us) influences perception. (ex. tall person makes normal person look small)	u_4
+Cornea	Outer layer of the eye: protects and bends light	u_4
+Iris	Ring of muscle that controls the size of the pupil	u_4
+Pupil	Opening in center of eye where light enters	u_4
+Lens	Transparent structure behind pupil that changes chape to focus images on retina	u_4
+Retina	Inner surface of eye, contains rods/cones	u_4
+Rods/Cones	Start transduction, transmit to bipolar and then ganglion, then the optic nerve	u_4
+Fovea	Spot on retina where the image is formed	u_4
+Blind spot	place where we can't see because it's where the ganglion cells merge into the optic nerve	u_4
+Optic Nerve	Nerve that carries impulses from eye to optic chiasm to thalamus, visual cortex	u_4
+Near/Farsighted (myopia/hyperopia)	Image forms in front or behind retina so you can't see it in focus	u_4
+Astigmatism	Light from lens splits, caused by irregularly shaped cornea/lens	u_4
+Young-Helmholtz Trichromatic Theory	Retina has 3 color receptors: RGB	u_4
+Opponent Processing Theory	Opposing retinal processes enable color vision because some cells are stimulated by one color or inhibited by another	u_4
+Colorblindness	Deficiency in color receptors in cones/bipolar/ganglion	u_4
+Pinna	Outer ear	u_4
+Tympanic Membrane	Eardrum, vibrates and sends waves to ossicles	u_4
+Ossicles	Hammer, anvil, stirrup (in order) transfer waves from eardrum to cochlea	u_4
+Cochlea	When the stirrup hits the oval window, it causes fluid to move basilar membrane (hairs) that transduce waves to neural signals.	u_4
+Auditory Nerve	Gets signals from basilar membrane and takes them to the thalamus and eventually to the auditory cortex.	u_4
+Doppler Effect	Perceived change in frequency of a sound that is moving relative to observer.	u_4
+Place Theory	Different sound waves trigger different places on the cochlear membrane, making different pitches	u_4
+Frequency Theory	We hear different pitches based on the frequency of the cochlea vibrating.	u_4
+Sensorineural Hearing Loss	Damage to basilar membrane	u_4
+Conduction Hearing Loss	Damage to tympanic membrane/ossicles	u_4
+5 Tastes	Bitter, sweet, salty, sour, umami	u_4
+Supertasters	More fungiform papillae	u_4
+Olfaction	Odor molecules enter nose and are passed to olfactory bulb. NO THALAMUS.	u_4
+Gate Control Theory	"Spinal chord has a ""gate"" that controls pain. It's opened by pain signals (small fibers) and closed by info from large fibers (touch/pressure) or the brain."	u_4
+Biological Factors that Influence Pain	More endorphins = less pain	u_4
+Psychological Factors that Influence Pain	Distraction = less pain, we only remember the peak and end of the pain	u_4
+Sociocultural Factors that Influence Pain	Reactions to pain are learned, empathy for pain makes us feel pain	u_4
+Kinesthetic Sense	Sense of position and movement of body parts	u_4
+Vestibular Sense	Sense of balance/equilubrium. Regulated by the semi-circular canals in ears.	u_4
+Classical Conditioning	A learned involuntary response	u_5
+Operant Conditioning	Voluntarily learning through rewards and punishments.	u_5
+Observational Learning	Learning by modeling others' behavior.	u_5
+Unconditioned Stimulus (US)	Stimulus that naturally causes a UR.	u_5
+Unconditioned Response (UR)	Naturally occurring response to US.	u_5
+Conditioned Stimulus (CS)	Originally neutral stimulus that becomes associated with US to trigger a CR.	u_5
+Conditioned Response (CR)	Learned response to CS.	u_5
+Aquisition	The initial stage in classical conditioning where the CS needs to come before the US.	u_5
+Higer Order/Secondary Conditioning	New neutral stimulus is paired with the CS.	u_5
+Extinction	Diminishing of CR when UR doesn't follow CS.	u_5
+Spontaneous Recovery	Reappearance of CR after an elapsed period of time after extinction.	u_5
+Generalization	Tendency for a CR to happen with a similar stimulus to the CS.	u_5
+Discrimination (Classical Conditioning)	Ability to distinguish between the CS and a stimuli that doesn't signal it.	u_5
+Delayed Conditioning	When US has to follow right after the CS.	u_5
+Trace Conditioning	When the US is presented *well* after the CS. Discovered by John Garcia.	u_5
+Simultaneous Conditioning	CS and US are presented at the same time. Isn't effective because the animal is distracted by the US.	u_5
+Backward Conditioning	US is presented before the CS. Doesn't work because the animal is distracted by the US.	u_5
+Robert Rescorla	Proved that cognition is involved in learning.	u_5
+Contiguity Model	The US has to come after the CS for learning. When repeated, the association gains strength.	u_5
+Contingency Model	Conditioning is contingent on the congnitive processing of the event and pairings of CS and US.	u_5
+The Law of Effect	Discovered by Edward Thorndike, states that behaviors followed by good things become more likely (and vice versa)	u_5
+Shaping	Where reinforcers (punishment, rewards) guide behavior toward desired behavior.	u_5
+Positive Reinforcement	Adding something good.	u_5
+Negative Reinforcement	Taking away something bad.	u_5
+Primary/Unconditioned Reinforcer	Innately reinforcing stimuli, ex. getting food when hungry.	u_5
+Conditioned/Secondary Reinforcer	The food/treats/etc used to condition.	u_5
+Positive Punishment	Adding something bad.	u_5
+Negative Punishment	Removing something good.	u_5
+Drawbacks of Punishment	Causes suppression (not forgetting), discrimination, fear, and may increase aggressiveness.	u_5
+Delayed Reinforcement/Gratification	Reinforcement given after a delay.	u_5
+Immediate Reinforcement/Gratification	Reinforcement happens immediately.	u_5
+Continuous Reinforcement	Reinforcing every time the response occurs. Leads to Overjustification Effect.	u_5
+Overjustification Effect	When rewards lose value because they are given too often.	u_5
+Partial Reinforcement	Reinforcing a response part of the time.	u_5
+Fixed Ratio Schedule	Reinforces the response after a vertain number of responses. Good for learning, will fade.	u_5
+Variable Ratio Schedule	Reinforces response after an unpredictable number of responses. Good for maintaining behavior.	u_5
+Ratio Schedules	Most effective, variable ratio is the best.	u_5
+Latent Learning	Learning occurs but is not apparent until there is an incentive to demonstrate it. Coined by Edward Tolman.	u_5
+Insight Learning	Answer suddenly comes to you without reward/punishment.	u_5
+Extrinsic Motivation	Perferming a behavior to get a reward or avoid a punishment. (External motivator)	u_5
+Intrinsic Motivation	Done for the sake of the performer of the behavior.	u_5
+Modeling	Learning by observing others.	u_5
+Mirror Neurons	Frontal lobe neurons that allow for imitation, empathy, and theory of mind (judging people's mental state).&nbsp;	u_5
+Tip of the Tongue Phenomena	Retrieval only produces parts of a complete response.	u_5
+Recall	Retrieving information learned earlier with NO cues.	u_5
+Recognition	Identifiying items previously learned with cues (ex. multiple choice)	u_5
+Sensory Memory	Extremely brief recording of sensory information.	u_5
+Iconic Memory	A brief, photographic subset of sensory memory.	u_5
+Echoic Memory	Brief recall of the last 5-6 words said, a type of sensory memory.	u_5
+Working/Short-Term Memory	Holds items that you are paying attention to from the sensory memory. Can only remember ~7 things.	u_5
+Encoding	Moving short-term memories to long-term memories. Usually done through rehearsal.	u_5
+Long-Term Memory	Relatively permanent storage of memories.	u_5
+Declarative/Explicit Memory	Memory of facts, includes semantic and episodic.	u_5
+Semantic Memory	A type of explicit memory, holds word meanings and facts.	u_5
+Episodic Memory	A type of Explicit memory, holds events from your life. Retrospective = past memories, Prospective = things you have to remember to do.	u_5
+Procedural/Implicit Memory	Automatically remember things, stored in the Cerebellum.	u_5
+Hermann Ebbinghaus	Discovered the Spacing Effect by trying to memorize a list of nonsense syllables.	u_5
+Spacing Effect	Information is retained better when rehearsal is spread out. (Distributed practice) (cramming is bad lol)	u_5
+Serial Position Effect	Tendency to recall the last and first items on a list.	u_5
+Semantic Encoding	The encoding of meaning, such as word meanings.	u_5
+Self Reference Effect	We remember things that pertain to ourselves better.	u_5
+Shallow Processing	When we only take in superficial sensory information such as lines and curves. Leads to rapid decay.	u_5
+Deep Processing	Attaching meaning to information and creating associations between new memories and old ones.	u_5
+Method of Loci	Creating a mental space and placing objects in it.	u_5
+Peg Word	Linking a word to remember with a number	u_5
+Chunking	Organizing items into manageable units	u_5
+Sensory Memory Storage	Iconic and Echoic memory storage, discovered by George Sperling.	u_5
+Long Term Potentiation (LTP)	Increase in Synapse's efficiency when learning happens through releasing Serotonin.	u_5
+Biology of Memories	Stressful situations cause more glucose in the neurons, leading to more vivid memories.	u_5
+Flashbulb Memories	Very clear memories of a significant moment.	u_5
+Anterograde Amnesia	Inability to remember new info, but still remembering info from before accident.	u_5
+Retrograde Amnesia	Being able to recall memories from after the accident, but not before.	u_5
+State Dependent Memory	You may remember something better if you get in the same mental state.	u_5
+Mood Congruent Memory	We recall experiences that are consistent with our current mood.	u_5
+7 Sins of Memory	Absent Mindedness, Blocking, Misattribution, Suggestibility, Bias, Persistence	u_5
+Transience	Storage decay over time	u_5
+Blocking	Inability to retrieve stored information	u_5
+Positive Transfer	Knowing one thing helps with another (ex. spanish makes other romance languages easier to learn)	u_5
+Proactive Interference	Information learned previously interferes with recalling new info (ex. i keep using spanish words when learning italian)	u_5
+Misattribution	Confusing the source of info (ex. someone tells you something and you think you were there)	u_5
+Theories for Motivation	Instinct Theory, Drive-Reduction theory, Incentive Theory, Arousal Theory, and Hiearchy of Needs	
+Instinct Theory	We're motivated by instincts (complex unmotivated behaviors) that are fixed throughout a species. DOESN'T WORK!	
+Drive Reduction Theory	Psychological/biological state disrupts homeostasis and pushes an organism to return to it. Problem: motivation can happen without a drive.	
+Incentive Theory	A desire for external rewards pulls you.	
+Self Efficacy	Belief in your ability to succeed in a certain situation.	
+Arousal Theory	We are driven to maintain certain levels of arousal.	
+Yerkes-Dodson Law	Part of arousal theory: states that performance increases with arousal only up to a certain point.	
+Maslow's Hierarchy of Needs (Humanistic Perspective)	Goal: self-actualization (reach full potential), self-transcendance (meaning + identity beyond the self)	
+Lateral Hypothalamus	Hunger center	
+Ventromedial Hypothalamus	Satiation center	
+Ghrelin	Hunger arousing hormone (produced in stomach, regulated by circadian rhythm)	
+Obestatin	Hunger-supressing hormone, produced in stomach.	
+Set Point	"Ideal weight, ""weight thermostat"""	
+Basal Metabolic Rate	The rate of food metabolization.	
+Anorexia Nervosa	Delusions you are fat, despite being emaciated.	
+Bulimia Nervosa	Recurrent binge eating followed by compensatory behaviors.	
+Binge Eating Disorder	Binge eating followed by guilt/disgust, no purging/fasting/excessive exercise.	
+Estrogen	Responsible for growth of female sex organs.	
+Testosterone	Stimulates growth of male sex organs in fetus.	
+William Masters/Virginia Johnson Study	Studied 700 men and women and their secual response cycle.	
+Sexual Response Cycle	Excitement, plateau, orgasm, resolution, (refractory for men only)	
+Alfred Kinsey	Founded sexology, the study of sexual interests, behavior, and function.	
+Affiliation Motive	Motivation to belong. Ostracism/social exclusion is hurtful.	
+David McClelland	Identified Achievement Motivation.	
+Achievement Motivation	Desire for significant accomplishment for mastery of skills, control, or high standards. Tested with the TAT.	
+TAT	Thematic Apperception Test, gives ambiguous picture and asks you to create a story. Measures need for achievement, affiliation, and power.	
+Need for Affiliation	Need to get along with others and feel accepted.	
+Need for Power	2 types: personal (high need for directing others), institutional (high need for organizing the efforts of others to further the goals of an organization)	
+Approach-Approach Conflicts	Two positive options.	
+Avoidance-Avoidance Conflicts	Two negative options.	
+Approach-Avoidance Conflicts	The one option has both positive and negative.	
+Multiple Approach-Avoidance Conflict	Several options that are both positive and negative each.	
+Emotions	A response of the whole organism.	
+James-Lange Theory	First stiumulus, then response, then emotion.	
+Cannon-Bard Theory	Stimulus, then response and emotion at the same time.	
+Schachter-Singer (Two-Factor) Theory	Stimulus, response, cognition, then emotion.	
+Schachter/Singer Epinephrine Trial	Showed spillover effect.	
+Spillover Effect	An aroused state can be experienced as one emotion or another.	
+Cognitive Appraisal Theory	Emotional experience depends on cognition of response.	
+Primary Appraisal	Assessing potential consequences.	
+Secondary Appraisal	Deciding what to do.	
+Opponent Processing Theory (emotions)	Richard Solomon, when we experience an emotion like fear, pleasure is suppressed.	
+Paul Ekman	Facial expressions are universal/biological, not cultural.	
+Display Rules	Norms that define when you can and can't display emotion.	
+Facial Feedback Effect	Faking emotions (similing, frowning) can influence the way you feel.	
+Adaptation Level Phenomena	Tendency to treat new things as a neutral level after a while.	
+Relative Deprivation	Perception that one is worse off relative to those with whom they compare themselves.	
+General Adaptation Syndrome (GAS)	Hans Selye, Stages of stress are alarm, resistance, and exhaustion.	
+Problem Focused Coping	Alleviating stress by going to the source.	
+Emotional Focused Coping	Alleviating stress by ignoring the stressor and dealing with the emotional reaction.	
+Perceived Control	Stress is worse if you think you don't have an external locus of control.	
+Personality	Characteristic pattern of thinking/feeling/acting.	
+Psychoanalytic Approach to Personality	Freud, mainly considered the unconscious mind and how things are repressed.	
+Id	Unconscious striving to satisfy basic aggressive and sexual needs.	
+Superego	Conscience, strives for perfection.	
+Ego	Conscious energy that mediates id and superego.	
+Defense Mechanisms	What the ego uses to handle conflict between the id and superego.	
+Denial	Claiming something that is true to be false.	
+Displacement	Redirecting emotions to a substitute.	
+Intellectualization	Taking an objective viewpoint.	
+Projection	Attributing your own uncomfortable feelings to others. (ex. when you lose an argument, you call the other person stupid when, in fact, you were stupid)	
+Rationalization	Creating false, but credible justifications.	
+Reaction Formation	Overacting in the opposite way (like extreme love turns into hate).	
+Regression	Acting like a child.	
+Repression	Pushing uncomfortable thoughts into the unconscious.	
+Sublimation	Redirecting socially wrong urges into socially acceptable options.	
+Psychoanalysis	Freud's method of treating personality disorders using free association.	
+Freudian Slips	Slips of tongue that Freud thought could reveal unconscious thoughts.	
+Neo-Freudians	Accept id, ego, superego, the unconscious, and defense mechanisms, but not the rest.	
+Alfred Adler	Neofreudian, researched Inferiority Complexes and birth order.	
+Birth Order	Adler shows it can influence personality, and argued it led to sibling rivalry.	
+Karen Horney	Didn't like penis envy, so she made... womb envy.	
+Carl Jung	Agreed with Freud's dream analysis, but not his partial definition of the unconscious.	
+Jung's Archetypes (4 most common)	The Shadow, The Anima/Animus, The Self, and The Persona	
+The Shadow Archetype	Unconscious desires, things we repress.	
