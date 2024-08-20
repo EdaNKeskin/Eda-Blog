@@ -176,3 +176,7 @@ button:hover {
     color:#0f2a17;
     font-style: italic;
 }
+
+#question li {
+    font-style: italic;
+}
