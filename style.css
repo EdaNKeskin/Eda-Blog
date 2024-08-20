@@ -25,6 +25,7 @@
 body {
     margin: 0px;
     padding: 0;
+    width: 100%;
 }
 
 main {
@@ -35,7 +36,8 @@ main {
 }
 
 .content {
-    width: 800px;
+    /*width: 800px;*/
+    width: 65%; 
 }
 
 
