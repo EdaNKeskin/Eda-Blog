@@ -187,3 +187,12 @@ button:hover {
         line-height: 10px;
     }
 }
+
+.indented-text {
+    margin-left: 40px; 
+}
+
+.no-bullets{
+    list-style-type: none;
+}
+
