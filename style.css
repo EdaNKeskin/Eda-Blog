@@ -142,7 +142,7 @@ nav {
 }
 
 .select-tabs :hover {
-    color: #163d22;
+    color: #691a13;
 }
 
 .select-tabs-container{
@@ -183,8 +183,11 @@ button:hover {
 
 @media screen and (max-width:768px) {
     nav .select-tabs {
-        font-size: 10px;
-        line-height: 10px;
+        font-size: 15px;
+        line-height: 15px;
+    }
+    h1 {
+        font-size: .25em;
     }
 }
 
