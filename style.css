@@ -38,6 +38,7 @@ main {
 .content {
     /*width: 800px;*/
     width: 65%; 
+    line-height: 25px;
 }
 
 
