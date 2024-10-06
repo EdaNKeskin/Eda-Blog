@@ -200,3 +200,7 @@ button:hover {
     list-style-type: none;
 }
 
+.info-icon {
+    font-size: 0.8em; 
+    vertical-align: super;
+}
