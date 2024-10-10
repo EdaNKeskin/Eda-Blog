@@ -1,0 +1,19 @@
+Color palette 
+#5cff8d green
+#ff5cce pink (complimentary)
+
+
+darker to lighter shades of that green:
+#0f2a17
+#1f552f
+#2e8047
+#3daa5e
+#4dd475
+
+
+Info button
+<span class='info-icon' title="hello!">&#x1F6C8;</span>
+
+
+TO DO
+Table of contents for every link

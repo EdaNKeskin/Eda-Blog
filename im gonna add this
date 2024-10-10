@@ -1,0 +1,38 @@
+const fs = require('fs');
+const path = require('path');
+
+const directoryPath = './your-folder'; // Change this to your folder path
+
+// Read all files in the directory
+fs.readdir(directoryPath, (err, files) => {
+    if (err) {
+        return console.error('Unable to scan directory: ' + err);
+    }
+
+    // Filter out HTML files
+    const htmlFiles = files.filter(file => file.endsWith('.html'));
+
+    // Generate Table of Contents
+    const toc = htmlFiles.map(file => `<li><a href="${file}">${file}</a></li>`).join('\n');
+
+    const tocHtml = `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table of Contents</title>
+</head>
+<body>
+<h1>Table of Contents</h1>
+<ul>
+${toc}
+</ul>
+</body>
+</html>
+`;
+
+    // Write the ToC to a new HTML file
+    fs.writeFileSync(path.join(directoryPath, 'toc.html'), tocHtml);
+    console.log('Table of contents generated: toc.html');
+});
