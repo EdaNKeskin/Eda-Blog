@@ -50,9 +50,10 @@ div {
 }
 
 
-
-
-
+img {
+    width: 50%;  
+    height: auto; 
+ }
 
 
 /* body */
