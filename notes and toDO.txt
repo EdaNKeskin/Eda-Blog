@@ -14,3 +14,6 @@ darker to lighter shades of that green:
 Info button
 <span class='info-icon' title="hello!">&#x1F6C8;</span>
 
+Note: if you use a non-conventional name for a html file (ex: have space in the file name), 
+the page link won't work through github. The link might work FROM index.html, but weirdly, not 
+from other pages.
